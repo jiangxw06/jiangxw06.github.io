@@ -30,8 +30,10 @@ $ gem sources -a https:/ruby.taobao.org/
 用淘宝的镜像网站代替Ruby官方网站即可。
 
 如果你使用Bundler，则需要留意Gemfile文件：
+
 ```
 source 'https://ruby.taobao.org'
 gem 'github-pages', group: :jekyll_plugins
 ```
+
 将里面的source改为镜像地址。
