@@ -16,7 +16,7 @@ title:  "用Github，Jekyll，Markdown撰写技术博客"
 
 ​    Jekyll是用Ruby语言实现的，而且官方不支持Windows版本。在Linux/Mac环境下搭建Jekyll环境最好能有一点Ruby包管理的基本知识。
 
-​    如果你以前没有配置过，那么在使用Ruby的包管理工具下载Jekyll的过程中可能会遇到错误：
+​    如果你以前没有配置过，那么在使用Ruby的包管理工/Users/shawnjiang/Documents/jiangxw06.github.io/_posts/2016-05-09-ZooKeeper入门.md具下载Jekyll的过程中可能会遇到错误：
 
 ```gem::RemoteFetcher::FetchError: Errno::ECONNRESET: Connection reset by peer……```
 
